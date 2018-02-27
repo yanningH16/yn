@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>月落乌啼霜满天,江aaaa枫渔火对愁眠,姑苏城外寒山石ban</h1>
+    <h1>简历制作中.....</h1>
   </div>
 </template>
 
