@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>简历制作中.....</h1>
+    <h1>鄢宁简历制作中.....</h1>
   </div>
 </template>
 
